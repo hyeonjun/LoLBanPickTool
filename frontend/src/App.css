@@ -1,0 +1,27 @@
+*{ margin: 0; padding: 0;}
+ul,li{list-style: none;}
+.wrap{
+  width: 100%;
+  height: 975px;
+  background-color: rgb(106, 181, 211);
+}
+.search{
+  width: 300px;
+  height: 80px;
+  background: rgb(228, 45, 45);
+  position: absolute;
+  z-index: 99;
+  left: 50%;
+  margin-left: -150px;
+  top: 750px;
+}
+.select{
+  width: 100%;
+  height: 30px;
+  background-color: rgb(133, 86, 86);
+}
+.in_search{
+  width: 100%;
+  height: 50px;
+  background-color: beige;
+}

@@ -1,0 +1,235 @@
+#obsr_wrap{
+    width: 1920px;
+    height: 975px;
+    background-color: rgb(73, 71, 71);
+    background-image: url(../img/soo_background3.png);
+    position: relative;
+}
+#obsr_header{
+    width: 100%;
+    height: 150px;
+    /* background-color: cadetblue; */
+    position: relative;
+}
+.obsr_team_name1{
+    width: 700px;
+    height: 100px;
+    /* background-color: cyan; */
+    float: left;
+}
+.obsr_team_name1 h1{float: left; color: white;}
+.obsr_time1{
+    width: 100px;
+    height: 100px;
+    /* background: linear-gradient( to bottom, #2c2c2c54, #09090942 ); */
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-size: 85px;
+    color: rgb(224, 62, 62);
+    font-family: 'Keania One', cursive;
+    text-shadow: 2px 2px 5px black;
+    /* display: none; */
+}
+.obsr_team_name2{
+    width: 700px;
+    height: 100px;
+    /* background-color: cyan; */
+    float: right;
+}
+.obsr_team_name2 h1{float: right; color: white;}
+.obsr_time2{
+    width: 100px;
+    height: 100px;
+    /* background: linear-gradient( to bottom, #2c2c2c54, #09090942 ); */
+    position: absolute;
+    right: 700px;
+    top: 50px;
+    font-size: 85px;
+    color: rgb(71 132 245);
+    font-family: 'Keania One', cursive;
+    text-shadow: 2px 2px 5px black;
+    /* display: none; */
+}
+#obsr_section{
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+.obsr_select_time1{
+    width: 800px;
+    height: 400px;
+    /* background-color: darkorange; */
+    float: left;
+    margin-top: 175px;
+    margin-left: 10px;
+}
+.obsr_select_time1 li{
+    width: 150px;
+    height: 400px;
+    background: linear-gradient( to bottom, #2c2c2c, #090909 );
+    float: left;
+    margin-right: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px black;
+
+}
+.obsr_select_time1  li img{
+    width: 150px;
+    height: 400px;
+    transition-duration: 0.2s;
+}
+.obsr_select_time2  li img{
+    width: 150px;
+    height: 400px;
+    transition-duration: 0.2s;
+}
+
+
+#obsr_select_1{
+    width: 310px;
+    height: 600px;
+    /* background-color: rgb(236, 39, 39); */
+    opacity: 0.5;
+    position: absolute;
+    top: -24px;
+    left: 50%;
+    margin-left: -155px;
+    z-index: 6;
+    background-image: url(../img/보석\ 질감.png);
+    clip-path: polygon(50% 0, 100% 20%, 95% 100%, 5% 100%, 0 20%);
+    box-shadow: 15px 15px 300px black inset;
+}
+#obsr_select_2{
+    width: 310px;
+    height: 600px;
+    position: absolute;
+    top: -24px;
+    left: 50%;
+    margin-left: -155px;
+    z-index: 5;
+    clip-path: polygon(50% 0, 100% 20%, 95% 100%, 5% 100%, 0 20%);
+    box-shadow: 15px 15px 300px black inset;
+}
+/* clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%); */
+#obsr_select_2 img{
+    width: 310px;
+    height: 650px;
+    
+}
+.obsr_select_time2{
+    width: 800px;
+    height: 400px;
+    /* background-color: darkorange; */
+    float: right;
+    margin-top: 175px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.obsr_select_time2 li{
+    width: 150px;
+    height: 400px;
+    background: linear-gradient( to bottom, #2c2c2c, #090909 );
+    float: left;
+    margin-left: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+#obsr_footer{
+    width: 100%;
+    height: 200px;
+    /* background-color: rgb(18, 76, 78); */
+    position: relative;
+    bottom: 10px;
+}
+.obsr_ben_1{
+    width: 400px; 
+    height: 200px;
+    /* background-color: deepskyblue; */
+    float: left;
+    margin-left: 75px;
+}
+#advertisement_2{
+    width: 800px;
+    height: 200px;
+    background-color: forestgreen;
+    float: left;
+    margin-left: 85px;
+    background-image: url(../img/goanggo3.png);
+    cursor: url(../img/soo_cursors2.png), url(../img/soo_cursors2.png), auto;
+}
+.obsr_ben_2{
+    width: 400px;
+    height: 200px;
+    /* background-color: deepskyblue; */
+    float: right;
+    margin-right: 75px;
+}
+.obsr_top_ben{
+    width: 100%;
+    height: 90px;
+    /* background-color: gainsboro; */
+}
+.obsr_top_ben ul{
+    width: 90px;
+    height: 90px;
+    background: linear-gradient( to bottom, #2c2c2c, #090909 );
+    float: left;
+    margin-left: 30px;
+    box-shadow: 1px 1px 8px black;
+    transition-duration: 0.2s;
+    overflow: hidden;
+}
+.obsr_bottom_ben1{
+    width: 100%;
+    height: 90px;
+    /* background-color: gainsboro; */
+    margin-top: 15px;
+}
+
+.obsr_bottom_ben2{
+    width: 100%;
+    height: 90px;
+    /* background-color: gainsboro; */
+    margin-top: 15px;
+}
+
+.obsr_bottom_ben1 ul{
+    width: 90px;
+    height: 90px;
+    background: linear-gradient( to bottom, #2c2c2c, #090909 );
+    float: left;
+    margin-left: 30px;
+    box-shadow: 1px 1px 8px black;
+    transition-duration: 0.2s;
+    overflow: hidden;
+}
+
+.obsr_bottom_ben2 ul{
+    width: 90px;
+    height: 90px;
+    background: linear-gradient( to bottom, #2c2c2c, #090909 );
+    float: right;
+    margin-right: 30px;
+    box-shadow: 1px 1px 8px black;
+    transition-duration: 0.2s;
+}
+.obsr_bottom_ben2 ul:nth-child(1){
+    margin-right: 40px;
+}
+
+.obsr_top_ben img{
+    width: 90px;
+    height: 90px;
+   
+}
+.obsr_bottom_ben1 img{
+    width: 90px;
+    height: 90px;
+   
+}
+
+.obsr_bottom_ben2 img{
+    width: 90px;
+    height: 90px;
+    
+}

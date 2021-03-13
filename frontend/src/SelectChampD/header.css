@@ -1,0 +1,79 @@
+header{
+  width: 100%;
+  height: 100px;
+  float: left;
+  background-color: rgb(143, 131, 209);
+  position: relative;
+  overflow: hidden;
+  color: white;
+}
+.red{
+  width: 35%;
+  height: 100px;
+  background-color: rgb(28, 19, 78);
+  float: left;
+  background: linear-gradient( to right, rgb(226, 46, 46), rgb(28, 19, 78));
+  /* linear-gradient( to right, yellow, red ); */
+}
+.red h1{float: left;}
+.time_1{
+  width: 80px;
+  height: 100px;
+  position: absolute;
+  left: 500px;
+  text-align: center;
+  font-size: 70px;
+  color: rgb(224, 62, 62);
+  line-height: 100px;
+  font-family: 'Keania One', cursive;
+  text-shadow: 2px 2px 5px black;
+}
+.time_2{
+  width: 80px;
+  height: 100px;
+  position: absolute;
+  right: 500px;
+  color: rgb(71 132 245);
+  text-align: center;
+  font-size: 70px;
+  line-height: 100px;
+  font-family: 'Keania One', cursive;
+  text-shadow: 2px 2px 5px black;
+}
+/* .center:after {
+  width: 8%;
+  height: 100px;
+  background-color: rgb(28, 19, 78);
+  display: block;
+  content: '';
+  position: absolute;
+  top: 30px;
+  left: 570px;
+  transform: skewY(-50deg);
+}
+.center:before {
+  width: 8%;
+  height: 100px;
+  background-color: rgb(28, 19, 78);
+  display: block;
+  content: '';
+  position: absolute;
+  top: 30px;
+  right: 570px;
+  transform: skewY(50deg);
+} */
+.center{
+  width: 30%;
+  height: 100px;
+  background-color: rgb(28, 19, 78);
+  float: left;
+  background-image: url(../VS.png);
+}
+.blue{
+  width: 35%;
+  height: 100px;
+  background-color:rgb(28, 19, 78);
+  float: left;
+  background: linear-gradient( to right, rgb(28, 19, 78), rgb(52, 49, 243) );
+}
+.blue h1{float: right;}

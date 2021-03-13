@@ -1,0 +1,82 @@
+*{ margin: 0; padding: 0;outline-style: none; -webkit-appearance: none; }
+ul,li{list-style: none;}
+img{padding: 0; display: block; border: none; box-shadow: 10px 10px 8px inset;}
+body{position: fixed;overflow-y: scroll;width: 100%; overflow-y:hidden;
+
+}
+body, html {cursor: url(../soo_cursors.png), url(../soo_cursors2.png), auto} 
+a {cursor: url(../soo_cursors.png), url(../soo_cursors2.png), auto} 
+
+/* a {cursor: url(../soo_cursors.png), url(../soo_cursors2.png), auto} */
+.wrap{
+  width: 100%;
+  height: 970px;
+  background-color: rgb(36, 34, 34);
+  overflow: hidden;
+}
+.search{
+  width: 300px;
+  height: 80px;
+  /* background: rgb(255, 255, 255); */
+  position: absolute;
+  z-index: 99;
+  left: 50%;
+  margin-left: -150px;
+  top: 730px;
+  /* border: 5px solid yellow ; */
+}
+.select{
+  width: 100%;
+  height: 30px;
+  /* border: 3px solid white; */
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 30PX;
+  background: linear-gradient( to right, rgb(226, 46, 46), rgb(52, 49, 243) );
+  box-shadow: 1px white;
+}
+
+.select h1{
+  font-size: 20pt;
+  text-align: center;
+  line-height: 30px;
+ color: #fff;
+ cursor: url(../soo_cursors.png), url(../soo_cursors2.png), auto;
+}
+.in_search{
+  width: 100%;
+  height: 45px;
+  /* background-color: rgb(255, 255, 255); */
+  /* background-color: rgba(255, 255, 255, 0.26); */
+  border-radius: 40px;
+  /* box-sizing: border-box; */
+  margin-top: 5px;
+}
+#select_btn{
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  line-height:  25px;
+  font-family: 'Black Han Sans', sans-serif;
+  cursor: url(../soo_cursors2.png), url(../soo_cursors2.png), auto;
+  font-size: 17px;
+}
+#search_bar{
+  width: 100%;
+  height: 45px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 40px;
+  text-align: center;
+  color: rgb(12, 12, 12);
+  outline-style: none;
+  border:none;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 13pt;
+  cursor: url(../soo_cursors3.png), url(../soo_cursors3.png), auto;
+  box-shadow: 4px 4px 8px inset;
+}
+/* .MuiButton-label{
+  color: #fff;
+  line-height:  0px;
+  cursor: url(../soo_cursors2.png), url(../soo_cursors2.png), auto;
+} */

@@ -1,0 +1,1234 @@
+{
+	"Aatrox": {
+		"name": "아트록스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아트록스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아트록스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Aatrox.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아트록스.jpg",
+		"voice": "Aatrox.mp3"
+	},
+	"Ahri": {
+		"name": "아리",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아리.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아리.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ahri.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아리.jpg",
+		"voice": "Ahri.mp3"
+	},
+	"Akali": {
+		"name": "아칼리",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아칼리.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아칼리.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Akali.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아칼리.jpg",
+		"voice": "Akali.mp3"
+	},
+	"Alistar": {
+		"name": "알리스타",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/알리스타.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/알리스타.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Alistar.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/알리스타.jpg",
+		"voice": "Alistar.mp3"
+	},
+	"Amumu": {
+		"name": "아무무",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아무무.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아무무.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Amumu.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아무무.jpg",
+		"voice": "Amumu.mp3"
+	},
+	"Anivia": {
+		"name": "애니비아",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/애니비아.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/애니비아.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Anivia.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/애니비아.jpg",
+		"voice": "Anivia.mp3"
+	},
+	"Annie": {
+		"name": "애니",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/애니.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/애니.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Annie.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/애니.jpg",
+		"voice": "Annie.mp3"
+	},
+	"Aphelios": {
+		"name": "아펠리오스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아펠리오스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아펠리오스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Aphelios.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아펠리오스.jpg",
+		"voice": "Aphelios.mp3"
+	},
+	"Ashe": {
+		"name": "애쉬",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/애쉬.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/애쉬.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ashe.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/애쉬.jpg",
+		"voice": "Ashe.mp3"
+	},
+	"AurelionSol": {
+		"name": "아우렐리온 솔",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아우렐리온 솔.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아우렐리온 솔.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/AurelionSol.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아우렐리온 솔.jpg",
+		"voice": "AurelionSol.mp3"
+	},
+	"Azir": {
+		"name": "아지르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아지르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아지르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Azir.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아지르.jpg",
+		"voice": "Azir.mp3"
+	},
+	"Bard": {
+		"name": "바드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/바드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/바드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Bard.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/바드.jpg",
+		"voice": "Bard.mp3"
+	},
+	"Blitzcrank": {
+		"name": "블리츠크랭크",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/블리츠크랭크.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/블리츠크랭크.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Blitzcrank.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/블리츠크랭크.jpg",
+		"voice": "Blitzcrank.mp3"
+	},
+	"Brand": {
+		"name": "브랜드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/브랜드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/브랜드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Brand.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/브랜드.jpg",
+		"voice": "Brand.mp3"
+	},
+	"Braum": {
+		"name": "브라움",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/브라움.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/브라움.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Braum.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/브라움.jpg",
+		"voice": "Braum.mp3"
+	},
+	"Caitlyn": {
+		"name": "케이틀린",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/케이틀린.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/케이틀린.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Caitlyn.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/케이틀린.jpg",
+		"voice": "Caitlyn.mp3"
+	},
+	"Camille": {
+		"name": "카밀",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카밀.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카밀.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Camille.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카밀.jpg",
+		"voice": "Camille.mp3"
+	},
+	"Cassiopeia": {
+		"name": "카시오페아",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카시오페아.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카시오페아.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Cassiopeia.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카시오페아.jpg",
+		"voice": "Cassiopeia.mp3"
+	},
+	"Chogath": {
+		"name": "초가스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/초가스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/초가스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Chogath.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/초가스.jpg",
+		"voice": "Chogath.mp3"
+	},
+	"Corki": {
+		"name": "코르키",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/코르키.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/코르키.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Corki.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/코르키.jpg",
+		"voice": "Corki.mp3"
+	},
+	"Darius": {
+		"name": "다리우스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/다리우스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/다리우스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Darius.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/다리우스.jpg",
+		"voice": "Darius.mp3"
+	},
+	"Diana": {
+		"name": "다이애나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/다이애나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/다이애나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Diana.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/다이애나.jpg",
+		"voice": "Diana.mp3"
+	},
+	"Draven": {
+		"name": "드레이븐",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/드레이븐.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/드레이븐.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Draven.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/드레이븐.jpg",
+		"voice": "Draven.mp3"
+	},
+	"DrMundo": {
+		"name": "문도 박사",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/문도 박사.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/문도 박사.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/DrMundo.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/문도 박사.jpg",
+		"voice": "DrMundo.mp3"
+	},
+	"Ekko": {
+		"name": "에코",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/에코.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/에코.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ekko.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/에코.jpg",
+		"voice": "Ekko.mp3"
+	},
+	"Elise": {
+		"name": "엘리스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/엘리스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/엘리스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Elise.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/엘리스.jpg",
+		"voice": "Elise.mp3"
+	},
+	"Evelynn": {
+		"name": "이블린",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/이블린.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/이블린.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Evelynn.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/이블린.jpg",
+		"voice": "Evelynn.mp3"
+	},
+	"Ezreal": {
+		"name": "이즈리얼",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/이즈리얼.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/이즈리얼.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ezreal.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/이즈리얼.jpg",
+		"voice": "Ezreal.mp3"
+	},
+	"Fiddlesticks": {
+		"name": "피들스틱",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/피들스틱.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/피들스틱.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Fiddlesticks.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/피들스틱.jpg",
+		"voice": "Fiddlesticks.mp3"
+	},
+	"Fiora": {
+		"name": "피오라",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/피오라.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/피오라.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Fiora.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/피오라.jpg",
+		"voice": "Fiora.mp3"
+	},
+	"Fizz": {
+		"name": "피즈",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/피즈.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/피즈.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Fizz.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/피즈.jpg",
+		"voice": "Fizz.mp3"
+	},
+	"Galio": {
+		"name": "갈리오",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/갈리오.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/갈리오.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Galio.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/갈리오.jpg",
+		"voice": "Galio.mp3"
+	},
+	"Gangplank": {
+		"name": "갱플랭크",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/갱플랭크.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/갱플랭크.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Gangplank.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/갱플랭크.jpg",
+		"voice": "Gangplank.mp3"
+	},
+	"Garen": {
+		"name": "가렌",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/가렌.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/가렌.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Garen.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/가렌.jpg",
+		"voice": "Garen.mp3"
+	},
+	"Gnar": {
+		"name": "나르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/나르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/나르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Gnar.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/나르.jpg",
+		"voice": "Gnar.mp3"
+	},
+	"Gragas": {
+		"name": "그라가스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/그라가스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/그라가스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Gragas.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/그라가스.jpg",
+		"voice": "Gragas.mp3"
+	},
+	"Graves": {
+		"name": "그레이브즈",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/그레이브즈.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/그레이브즈.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Graves.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/그레이브즈.jpg",
+		"voice": "Graves.mp3"
+	},
+	"Hecarim": {
+		"name": "헤카림",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/헤카림.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/헤카림.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Hecarim.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/헤카림.jpg",
+		"voice": "Hecarim.mp3"
+	},
+	"Heimerdinger": {
+		"name": "하이머딩거",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/하이머딩거.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/하이머딩거.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Heimerdinger.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/하이머딩거.jpg",
+		"voice": "Heimerdinger.mp3"
+	},
+	"Illaoi": {
+		"name": "일라오이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/일라오이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/일라오이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Illaoi.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/일라오이.jpg",
+		"voice": "Illaoi.mp3"
+	},
+	"Irelia": {
+		"name": "이렐리아",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/이렐리아.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/이렐리아.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Irelia.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/이렐리아.jpg",
+		"voice": "Irelia.mp3"
+	},
+	"Ivern": {
+		"name": "아이번",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/아이번.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/아이번.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ivern.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/아이번.jpg",
+		"voice": "Ivern.mp3"
+	},
+	"Janna": {
+		"name": "잔나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/잔나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/잔나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Janna.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/잔나.jpg",
+		"voice": "Janna.mp3"
+	},
+	"JarvanIV": {
+		"name": "자르반 4세",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/자르반 4세.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/자르반 4세.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/JarvanIV.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/자르반 4세.jpg",
+		"voice": "JarvanIV.mp3"
+	},
+	"Jax": {
+		"name": "잭스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/잭스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/잭스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Jax.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/잭스.jpg",
+		"voice": "Jax.mp3"
+	},
+	"Jayce": {
+		"name": "제이스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/제이스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/제이스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Jayce.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/제이스.jpg",
+		"voice": "Jayce.mp3"
+	},
+	"Jhin": {
+		"name": "진",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/진.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/진.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Jhin.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/진.jpg",
+		"voice": "Jhin.mp3"
+	},
+	"Jinx": {
+		"name": "징크스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/징크스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/징크스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Jinx.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/징크스.jpg",
+		"voice": "Jinx.mp3"
+	},
+	"Kaisa": {
+		"name": "카이사",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카이사.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카이사.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kaisa.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카이사.jpg",
+		"voice": "Kaisa.mp3"
+	},
+	"Kalista": {
+		"name": "칼리스타",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/칼리스타.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/칼리스타.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kalista.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/칼리스타.jpg",
+		"voice": "Kalista.mp3"
+	},
+	"Karma": {
+		"name": "카르마",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카르마.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카르마.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Karma.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카르마.jpg",
+		"voice": "Karma.mp3"
+	},
+	"Karthus": {
+		"name": "카서스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카서스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카서스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Karthus.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카서스.jpg",
+		"voice": "Karthus.mp3"
+	},
+	"Kassadin": {
+		"name": "카사딘",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카사딘.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카사딘.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kassadin.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카사딘.jpg",
+		"voice": "Kassadin.mp3"
+	},
+	"Katarina": {
+		"name": "카타리나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카타리나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카타리나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Katarina.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카타리나.jpg",
+		"voice": "Katarina.mp3"
+	},
+	"Kayle": {
+		"name": "케일",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/케일.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/케일.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kayle.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/케일.jpg",
+		"voice": "Kayle.mp3"
+	},
+	"Kayn": {
+		"name": "케인",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/케인.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/케인.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kayn.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/케인.jpg",
+		"voice": "Kayn.mp3"
+	},
+	"Kennen": {
+		"name": "케넨",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/케넨.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/케넨.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kennen.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/케넨.jpg",
+		"voice": "Kennen.mp3"
+	},
+	"Khazix": {
+		"name": "카직스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/카직스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/카직스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Khazix.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/카직스.jpg",
+		"voice": "Khazix.mp3"
+	},
+	"Kindred": {
+		"name": "킨드레드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/킨드레드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/킨드레드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kindred.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/킨드레드.jpg",
+		"voice": "Kindred.mp3"
+	},
+	"Kled": {
+		"name": "클레드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/클레드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/클레드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Kled.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/클레드.jpg",
+		"voice": "Kled.mp3"
+	},
+	"KogMaw": {
+		"name": "코그모",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/코그모.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/코그모.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/KogMaw.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/코그모.jpg",
+		"voice": "KogMaw.mp3"
+	},
+	"Leblanc": {
+		"name": "르블랑",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/르블랑.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/르블랑.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Leblanc.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/르블랑.jpg",
+		"voice": "Leblanc.mp3"
+	},
+	"LeeSin": {
+		"name": "리 신",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/리 신.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/리 신.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/LeeSin.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/리 신.jpg",
+		"voice": "LeeSin.mp3"
+	},
+	"Leona": {
+		"name": "레오나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/레오나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/레오나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Leona.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/레오나.jpg",
+		"voice": "Leona.mp3"
+	},
+	"Lillia": {
+		"name": "릴리아",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/릴리아.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/릴리아.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Lillia.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/릴리아.jpg",
+		"voice": "Lillia.mp3"
+	},
+	"Lissandra": {
+		"name": "리산드라",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/리산드라.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/리산드라.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Lissandra.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/리산드라.jpg",
+		"voice": "Lissandra.mp3"
+	},
+	"Lucian": {
+		"name": "루시안",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/루시안.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/루시안.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Lucian.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/루시안.jpg",
+		"voice": "Lucian.mp3"
+	},
+	"Lulu": {
+		"name": "룰루",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/룰루.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/룰루.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Lulu.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/룰루.jpg",
+		"voice": "Lulu.mp3"
+	},
+	"Lux": {
+		"name": "럭스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/럭스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/럭스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Lux.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/럭스.jpg",
+		"voice": "Lux.mp3"
+	},
+	"Malphite": {
+		"name": "말파이트",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/말파이트.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/말파이트.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Malphite.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/말파이트.jpg",
+		"voice": "Malphite.mp3"
+	},
+	"Malzahar": {
+		"name": "말자하",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/말자하.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/말자하.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Malzahar.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/말자하.jpg",
+		"voice": "Malzahar.mp3"
+	},
+	"Maokai": {
+		"name": "마오카이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/마오카이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/마오카이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Maokai.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/마오카이.jpg",
+		"voice": "Maokai.mp3"
+	},
+	"MasterYi": {
+		"name": "마스터 이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/마스터 이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/마스터 이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/MasterYi.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/마스터 이.jpg",
+		"voice": "MasterYi.mp3"
+	},
+	"MissFortune": {
+		"name": "미스 포츈",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/미스 포츈.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/미스 포츈.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/MissFortune.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/미스 포츈.jpg",
+		"voice": "MissFortune.mp3"
+	},
+	"MonkeyKing": {
+		"name": "오공",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/오공.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/오공.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/MonkeyKing.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/오공.jpg",
+		"voice": "MonkeyKing.mp3"
+	},
+	"Mordekaiser": {
+		"name": "모데카이저",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/모데카이저.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/모데카이저.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Mordekaiser.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/모데카이저.jpg",
+		"voice": "Mordekaiser.mp3"
+	},
+	"Morgana": {
+		"name": "모르가나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/모르가나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/모르가나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Morgana.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/모르가나.jpg",
+		"voice": "Morgana.mp3"
+	},
+	"Nami": {
+		"name": "나미",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/나미.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/나미.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nami.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/나미.jpg",
+		"voice": "Nami.mp3"
+	},
+	"Nasus": {
+		"name": "나서스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/나서스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/나서스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nasus.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/나서스.jpg",
+		"voice": "Nasus.mp3"
+	},
+	"Nautilus": {
+		"name": "노틸러스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/노틸러스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/노틸러스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nautilus.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/노틸러스.jpg",
+		"voice": "Nautilus.mp3"
+	},
+	"Neeko": {
+		"name": "니코",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/니코.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/니코.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Neeko.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/니코.jpg",
+		"voice": "Neeko.mp3"
+	},
+	"Nidalee": {
+		"name": "니달리",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/니달리.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/니달리.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nidalee.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/니달리.jpg",
+		"voice": "Nidalee.mp3"
+	},
+	"Nocturne": {
+		"name": "녹턴",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/녹턴.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/녹턴.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nocturne.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/녹턴.jpg",
+		"voice": "Nocturne.mp3"
+	},
+	"Nunu": {
+		"name": "누누와 윌럼프",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/누누와 윌럼프.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/누누와 윌럼프.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Nunu.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/누누와 윌럼프.jpg",
+		"voice": "Nunu.mp3"
+	},
+	"Olaf": {
+		"name": "올라프",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/올라프.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/올라프.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Olaf.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/올라프.jpg",
+		"voice": "Olaf.mp3"
+	},
+	"Orianna": {
+		"name": "오리아나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/오리아나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/오리아나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Orianna.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/오리아나.jpg",
+		"voice": "Orianna.mp3"
+	},
+	"Ornn": {
+		"name": "오른",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/오른.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/오른.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ornn.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/오른.jpg",
+		"voice": "Ornn.mp3"
+	},
+	"Pantheon": {
+		"name": "판테온",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/판테온.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/판테온.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Pantheon.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/판테온.jpg",
+		"voice": "Pantheon.mp3"
+	},
+	"Poppy": {
+		"name": "뽀삐",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/뽀삐.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/뽀삐.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Poppy.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/뽀삐.jpg",
+		"voice": "Poppy.mp3"
+	},
+	"Pyke": {
+		"name": "파이크",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/파이크.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/파이크.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Pyke.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/파이크.jpg",
+		"voice": "Pyke.mp3"
+	},
+	"Qiyana": {
+		"name": "키아나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/키아나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/키아나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Qiyana.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/키아나.jpg",
+		"voice": "Qiyana.mp3"
+	},
+	"Quinn": {
+		"name": "퀸",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/퀸.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/퀸.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Quinn.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/퀸.jpg",
+		"voice": "Quinn.mp3"
+	},
+	"Rakan": {
+		"name": "라칸",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/라칸.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/라칸.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Rakan.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/라칸.jpg",
+		"voice": "Rakan.mp3"
+	},
+	"Rammus": {
+		"name": "람머스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/람머스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/람머스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Rammus.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/람머스.jpg",
+		"voice": "Rammus.mp3"
+	},
+	"RekSai": {
+		"name": "렉사이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/렉사이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/렉사이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/RekSai.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/렉사이.jpg",
+		"voice": "RekSai.mp3"
+	},
+	"Rell": {
+		"name": "렐",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/렐.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/렐.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Rell.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/렐.jpg",
+		"voice": "Rell.mp3"
+	},
+	"Renekton": {
+		"name": "레넥톤",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/레넥톤.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/레넥톤.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Renekton.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/레넥톤.jpg",
+		"voice": "Renekton.mp3"
+	},
+	"Rengar": {
+		"name": "렝가",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/렝가.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/렝가.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Rengar.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/렝가.jpg",
+		"voice": "Rengar.mp3"
+	},
+	"Riven": {
+		"name": "리븐",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/리븐.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/리븐.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Riven.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/리븐.jpg",
+		"voice": "Riven.mp3"
+	},
+	"Rumble": {
+		"name": "럼블",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/럼블.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/럼블.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Rumble.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/럼블.jpg",
+		"voice": "Rumble.mp3"
+	},
+	"Ryze": {
+		"name": "라이즈",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/라이즈.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/라이즈.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ryze.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/라이즈.jpg",
+		"voice": "Ryze.mp3"
+	},
+	"Samira": {
+		"name": "사미라",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/사미라.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/사미라.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Samira.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/사미라.jpg",
+		"voice": "Samira.mp3"
+	},
+	"Sejuani": {
+		"name": "세주아니",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/세주아니.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/세주아니.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sejuani.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/세주아니.jpg",
+		"voice": "Sejuani.mp3"
+	},
+	"Senna": {
+		"name": "세나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/세나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/세나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Senna.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/세나.jpg",
+		"voice": "Senna.mp3"
+	},
+	"Seraphine": {
+		"name": "세라핀",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/세라핀.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/세라핀.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Seraphine.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/세라핀.jpg",
+		"voice": "Seraphine.mp3"
+	},
+	"Sett": {
+		"name": "세트",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/세트.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/세트.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sett.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/세트.jpg",
+		"voice": "Sett.mp3"
+	},
+	"Shaco": {
+		"name": "샤코",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/샤코.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/샤코.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Shaco.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/샤코.jpg",
+		"voice": "Shaco.mp3"
+	},
+	"Shen": {
+		"name": "쉔",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/쉔.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/쉔.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Shen.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/쉔.jpg",
+		"voice": "Shen.mp3"
+	},
+	"Shyvana": {
+		"name": "쉬바나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/쉬바나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/쉬바나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Shyvana.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/쉬바나.jpg",
+		"voice": "Shyvana.mp3"
+	},
+	"Singed": {
+		"name": "신지드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/신지드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/신지드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Singed.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/신지드.jpg",
+		"voice": "Singed.mp3"
+	},
+	"Sion": {
+		"name": "사이온",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/사이온.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/사이온.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sion.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/사이온.jpg",
+		"voice": "Sion.mp3"
+	},
+	"Sivir": {
+		"name": "시비르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/시비르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/시비르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sivir.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/시비르.jpg",
+		"voice": "Sivir.mp3"
+	},
+	"Skarner": {
+		"name": "스카너",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/스카너.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/스카너.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Skarner.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/스카너.jpg",
+		"voice": "Skarner.mp3"
+	},
+	"Sona": {
+		"name": "소나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/소나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/소나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sona.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/소나.jpg",
+		"voice": "Sona.mp3"
+	},
+	"Soraka": {
+		"name": "소라카",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/소라카.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/소라카.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Soraka.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/소라카.jpg",
+		"voice": "Soraka.mp3"
+	},
+	"Swain": {
+		"name": "스웨인",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/스웨인.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/스웨인.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Swain.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/스웨인.jpg",
+		"voice": "Swain.mp3"
+	},
+	"Sylas": {
+		"name": "사일러스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/사일러스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/사일러스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Sylas.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/사일러스.jpg",
+		"voice": "Sylas.mp3"
+	},
+	"Syndra": {
+		"name": "신드라",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/신드라.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/신드라.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Syndra.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/신드라.jpg",
+		"voice": "Syndra.mp3"
+	},
+	"TahmKench": {
+		"name": "탐 켄치",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/탐 켄치.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/탐 켄치.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/TahmKench.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/탐 켄치.jpg",
+		"voice": "TahmKench.mp3"
+	},
+	"Taliyah": {
+		"name": "탈리야",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/탈리야.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/탈리야.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Taliyah.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/탈리야.jpg",
+		"voice": "Taliyah.mp3"
+	},
+	"Talon": {
+		"name": "탈론",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/탈론.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/탈론.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Talon.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/탈론.jpg",
+		"voice": "Talon.mp3"
+	},
+	"Taric": {
+		"name": "타릭",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/타릭.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/타릭.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Taric.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/타릭.jpg",
+		"voice": "Taric.mp3"
+	},
+	"Teemo": {
+		"name": "티모",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/티모.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/티모.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Teemo.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/티모.jpg",
+		"voice": "Teemo.mp3"
+	},
+	"Thresh": {
+		"name": "쓰레쉬",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/쓰레쉬.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/쓰레쉬.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Thresh.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/쓰레쉬.jpg",
+		"voice": "Thresh.mp3"
+	},
+	"Tristana": {
+		"name": "트리스타나",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/트리스타나.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/트리스타나.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Tristana.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/트리스타나.jpg",
+		"voice": "Tristana.mp3"
+	},
+	"Trundle": {
+		"name": "트런들",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/트런들.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/트런들.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Trundle.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/트런들.jpg",
+		"voice": "Trundle.mp3"
+	},
+	"Tryndamere": {
+		"name": "트린다미어",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/트린다미어.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/트린다미어.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Tryndamere.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/트린다미어.jpg",
+		"voice": "Tryndamere.mp3"
+	},
+	"TwistedFate": {
+		"name": "트위스티드 페이트",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/트위스티드 페이트.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/트위스티드 페이트.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/TwistedFate.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/트위스티드 페이트.jpg",
+		"voice": "TwistedFate.mp3"
+	},
+	"Twitch": {
+		"name": "트위치",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/트위치.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/트위치.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Twitch.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/트위치.jpg",
+		"voice": "Twitch.mp3"
+	},
+	"Udyr": {
+		"name": "우디르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/우디르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/우디르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Udyr.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/우디르.jpg",
+		"voice": "Udyr.mp3"
+	},
+	"Urgot": {
+		"name": "우르곳",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/우르곳.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/우르곳.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Urgot.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/우르곳.jpg",
+		"voice": "Urgot.mp3"
+	},
+	"Varus": {
+		"name": "바루스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/바루스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/바루스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Varus.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/바루스.jpg",
+		"voice": "Varus.mp3"
+	},
+	"Vayne": {
+		"name": "베인",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/베인.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/베인.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Vayne.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/베인.jpg",
+		"voice": "Vayne.mp3"
+	},
+	"Veigar": {
+		"name": "베이가",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/베이가.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/베이가.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Veigar.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/베이가.jpg",
+		"voice": "Veigar.mp3"
+	},
+	"Velkoz": {
+		"name": "벨코즈",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/벨코즈.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/벨코즈.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Velkoz.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/벨코즈.jpg",
+		"voice": "Velkoz.mp3"
+	},
+	"Vi": {
+		"name": "바이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/바이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/바이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Vi.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/바이.jpg",
+		"voice": "Vi.mp3"
+	},
+	"Viego": {
+		"name": "비에고",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/비에고.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/비에고.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Viego.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/비에고.jpg",
+		"voice": "Viego.mp3"
+	},
+	"Viktor": {
+		"name": "빅토르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/빅토르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/빅토르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Viktor.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/빅토르.jpg",
+		"voice": "Viktor.mp3"
+	},
+	"Vladimir": {
+		"name": "블라디미르",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/블라디미르.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/블라디미르.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Vladimir.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/블라디미르.jpg",
+		"voice": "Vladimir.mp3"
+	},
+	"Volibear": {
+		"name": "볼리베어",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/볼리베어.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/볼리베어.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Volibear.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/볼리베어.jpg",
+		"voice": "Volibear.mp3"
+	},
+	"Warwick": {
+		"name": "워윅",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/워윅.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/워윅.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Warwick.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/워윅.jpg",
+		"voice": "Warwick.mp3"
+	},
+	"Xayah": {
+		"name": "자야",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/자야.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/자야.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Xayah.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/자야.jpg",
+		"voice": "Xayah.mp3"
+	},
+	"Xerath": {
+		"name": "제라스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/제라스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/제라스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Xerath.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/제라스.jpg",
+		"voice": "Xerath.mp3"
+	},
+	"XinZhao": {
+		"name": "신 짜오",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/신 짜오.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/신 짜오.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/XinZhao.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/신 짜오.jpg",
+		"voice": "XinZhao.mp3"
+	},
+	"Yasuo": {
+		"name": "야스오",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/야스오.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/야스오.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Yasuo.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/야스오.jpg",
+		"voice": "Yasuo.mp3"
+	},
+	"Yone": {
+		"name": "요네",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/요네.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/요네.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Yone.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/요네.jpg",
+		"voice": "Yone.mp3"
+	},
+	"Yorick": {
+		"name": "요릭",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/요릭.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/요릭.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Yorick.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/요릭.jpg",
+		"voice": "Yorick.mp3"
+	},
+	"Yuumi": {
+		"name": "유미",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/유미.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/유미.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Yuumi.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/유미.jpg",
+		"voice": "Yuumi.mp3"
+	},
+	"Zac": {
+		"name": "자크",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/자크.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/자크.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Zac.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/자크.jpg",
+		"voice": "Zac.mp3"
+	},
+	"Zed": {
+		"name": "제드",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/제드.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/제드.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Zed.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/제드.jpg",
+		"voice": "Zed.mp3"
+	},
+	"Ziggs": {
+		"name": "직스",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/직스.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/직스.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Ziggs.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/직스.jpg",
+		"voice": "Ziggs.mp3"
+	},
+	"Zilean": {
+		"name": "질리언",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/질리언.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/질리언.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Zilean.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/질리언.jpg",
+		"voice": "Zilean.mp3"
+	},
+	"Zoe": {
+		"name": "조이",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/조이.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/조이.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Zoe.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/조이.jpg",
+		"voice": "Zoe.mp3"
+	},
+	"Zyra": {
+		"name": "자이라",
+		"lobby_image_right": "http://39.118.174.168:8000/champ_image/right/자이라.png",
+		"lobby_image_left": "http://39.118.174.168:8000/champ_image/left/자이라.png",
+		"small_img": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Zyra.png",
+		"ban_img": "http://39.118.174.168:8000/champ_image/long_image_noColor/자이라.jpg",
+		"voice": "Zyra.mp3"
+	}
+}

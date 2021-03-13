@@ -1,0 +1,158 @@
+missing module named 'win32com.gen_py' - imported by win32com, C:\Users\user\Python\Lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, C:\Users\user\Python\Lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named _manylinux - imported by pkg_resources._vendor.packaging.tags
+missing module named _uuid - imported by uuid
+missing module named __builtin__ - imported by pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
+missing module named StringIO - imported by PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat
+missing module named PyQt5 - imported by PyInstaller.utils.hooks.qt, pyperclip
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by cffi.lock, cffi.cparser, PyInstaller.loader.pyimod02_archive
+missing module named Crypto - imported by PyInstaller.building.makespec
+missing module named win32ctypes.core._time - imported by win32ctypes.core, win32ctypes.pywin32.win32api
+missing module named win32ctypes.core._system_information - imported by win32ctypes.core, win32ctypes.pywin32.win32api
+missing module named win32ctypes.core._resource - imported by win32ctypes.core, win32ctypes.pywin32.win32api
+missing module named win32ctypes.core._dll - imported by win32ctypes.core, win32ctypes.pywin32.win32api
+missing module named win32ctypes.core._common - imported by win32ctypes.core, win32ctypes.pywin32.win32api, win32ctypes.pywin32.win32cred
+missing module named win32ctypes.core._authentication - imported by win32ctypes.core, win32ctypes.pywin32.win32cred
+missing module named dummy_thread - imported by cffi.lock
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.py33compat, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, setuptools.msvc
+missing module named 'setuptools.extern.packaging.version' - imported by setuptools.config, setuptools.msvc
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.py33compat, setuptools.wheel, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.installer, setuptools.command.develop
+missing module named setuptools.extern.ordered_set - imported by setuptools.extern, setuptools.dist, setuptools.command.sdist
+missing module named setuptools.extern.packaging - imported by setuptools.extern, setuptools.dist, setuptools.command.egg_info
+missing module named 'setuptools.extern.packaging.utils' - imported by setuptools.wheel
+missing module named 'setuptools.extern.packaging.tags' - imported by setuptools.wheel
+missing module named 'setuptools.extern.packaging.specifiers' - imported by setuptools.config
+missing module named wincertstore - imported by setuptools.ssl_support
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support
+missing module named backports - imported by setuptools.ssl_support
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension
+missing module named cStringIO - imported by cPickle, cffi.ffiplatform
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named cPickle - imported by pycparser.ply.yacc
+missing module named cffi._pycparser - imported by cffi, cffi.cparser
+missing module named UserDict - imported by PyInstaller.compat
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named 'multiprocessing.forking' - imported by C:\Users\user\Python\Lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named posix - imported by os, shutil, C:\banpick\recordProgram\record_2.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\banpick\recordProgram\record_2.py
+missing module named org - imported by pickle, C:\banpick\recordProgram\record_2.py
+missing module named readline - imported by cmd, code, pdb, C:\banpick\recordProgram\record_2.py
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, C:\banpick\recordProgram\record_2.py
+missing module named _winreg - imported by platform, C:\banpick\recordProgram\record_2.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, C:\banpick\recordProgram\record_2.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\banpick\recordProgram\record_2.py
+missing module named vms_lib - imported by platform, C:\banpick\recordProgram\record_2.py
+missing module named resource - imported by posix, test.support, C:\banpick\recordProgram\record_2.py
+missing module named termios - imported by tty, getpass, C:\banpick\recordProgram\record_2.py
+missing module named _scproxy - imported by urllib.request, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, C:\banpick\recordProgram\record_2.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, C:\banpick\recordProgram\record_2.py
+missing module named _posixshmem - imported by multiprocessing.resource_tracker, multiprocessing.shared_memory, C:\banpick\recordProgram\record_2.py
+missing module named grp - imported by shutil, tarfile, pathlib, distutils.archive_util, C:\banpick\recordProgram\record_2.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, zipimport, PyInstaller.loader.pyimod02_archive, C:\banpick\recordProgram\record_2.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, zipimport, C:\banpick\recordProgram\record_2.py
+missing module named 'org.python' - imported by copy, xml.sax, setuptools.sandbox, C:\banpick\recordProgram\record_2.py
+missing module named pwd - imported by posixpath, shutil, tarfile, pathlib, http.server, webbrowser, netrc, getpass, distutils.util, distutils.archive_util, C:\banpick\recordProgram\record_2.py
+missing module named azure - imported by ffmpeg_streaming._clouds
+missing module named 'google.cloud' - imported by ffmpeg_streaming._clouds
+missing module named botocore - imported by ffmpeg_streaming._clouds
+missing module named boto3 - imported by ffmpeg_streaming._clouds
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose
+missing module named numpy_distutils - imported by numpy.f2py.diagnose
+missing module named __svn_version__ - imported by numpy.f2py.__version__
+missing module named numarray - imported by numpy.distutils.system_info
+missing module named Numeric - imported by numpy.distutils.system_info
+missing module named _curses - imported by curses, curses.has_key
+missing module named _dummy_threading - imported by dummy_threading
+missing module named hypothesis - imported by numpy._pytesttester
+missing module named pytest - imported by numpy._pytesttester, numpy.testing._private.utils
+missing module named 'nose.plugins' - imported by numpy.testing._private.noseclasses, numpy.testing._private.nosetester
+missing module named scipy - imported by numpy.testing._private.nosetester
+missing module named 'nose.util' - imported by numpy.testing._private.noseclasses
+missing module named nose - imported by numpy.testing._private.utils, numpy.testing._private.decorators, numpy.testing._private.noseclasses
+missing module named psutil - imported by numpy.testing._private.utils
+missing module named numpy.core.number - imported by numpy.core, numpy.testing._private.utils
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg, numpy.testing._private.utils
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing._private.utils
+missing module named numpy.core.isnan - imported by numpy.core, numpy.linalg.linalg, numpy.testing._private.utils
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing._private.utils
+missing module named numpy.core.intp - imported by numpy.core, numpy.testing._private.utils, numpy.linalg.linalg
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual
+missing module named numpy.linalg.matrix_power - imported by numpy.linalg, numpy.matrixlib.defmatrix
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg, numpy.fft._pocketfft
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft._pocketfft
+missing module named numpy.core.sign - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.divide - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.lib.polynomial
+missing module named numpy.linalg.lstsq - imported by numpy.linalg, numpy.lib.polynomial
+missing module named numpy.linalg.eigvals - imported by numpy.linalg, numpy.lib.polynomial
+missing module named pickle5 - imported by numpy.compat.py3k
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core
+missing module named numpy.amin - imported by numpy, numpy.ma.core
+missing module named numpy.amax - imported by numpy, numpy.ma.core
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base
+missing module named numpy.eye - imported by numpy, numpy.core.numeric
+missing module named 'Xlib.XK' - imported by pyautogui._pyautogui_x11
+missing module named 'Xlib.ext' - imported by pyautogui._pyautogui_x11
+missing module named Xlib - imported by mouseinfo, pyautogui._pyautogui_x11
+missing module named 'Xlib.display' - imported by pyautogui._pyautogui_x11
+missing module named AppKit - imported by pyperclip, pyautogui._pyautogui_osx
+missing module named Quartz - imported by pygetwindow._pygetwindow_macos, pyautogui._pyautogui_osx
+missing module named Tkinter - imported by pymsgbox, mouseinfo
+missing module named 'rubicon.objc' - imported by mouseinfo
+missing module named rubicon - imported by mouseinfo
+missing module named olefile - imported by PIL.MicImagePlugin, PIL.FpxImagePlugin
+missing module named 'PySide2.QtGui' - imported by PIL.ImageQt, qtpy.QtGui, qtpy.QtCore
+missing module named PySide2 - imported by PIL.ImageQt, qtpy
+missing module named 'PyQt5.QtGui' - imported by PIL.ImageQt, qtpy.QtGui
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt, qtpy, qtpy.QtCore
+missing module named 'PySide6.QtGui' - imported by PIL.ImageQt
+missing module named PySide6 - imported by PIL.ImageQt
+missing module named PIL._imagingagg - imported by PIL, PIL.ImageDraw
+missing module named PyQt4 - imported by qtpy, pyperclip
+missing module named 'PySide.QtCore' - imported by qtpy, qtpy.QtCore
+missing module named PySide - imported by qtpy
+missing module named 'PyQt4.Qt' - imported by qtpy, qtpy.QtGui
+missing module named sip - imported by qtpy
+missing module named 'PySide2.QtCore' - imported by qtpy, qtpy.QtCore
+missing module named Foundation - imported by pyperclip
+missing module named 'PyQt4.QtGui' - imported by qtpy.QtGui, qtpy.QtCore, qtpy.QtWidgets, pyperclip
+missing module named 'PyQt5.QtWidgets' - imported by qtpy.QtWidgets, pyperclip
+missing module named 'PySide.QtGui' - imported by qtpy.QtGui, qtpy.QtCore, qtpy.QtWidgets
+missing module named 'PySide2.QtWidgets' - imported by qtpy.QtWidgets
+missing module named 'PyQt4.QtCore' - imported by qtpy.QtCore
+missing module named gtk - imported by pyperclip
