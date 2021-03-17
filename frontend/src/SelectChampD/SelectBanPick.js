@@ -339,6 +339,10 @@ function SelectBanPick(props) {
             setBan(ban_);
             set_flag(true);
             setSelectChamp(eng_name_);
+            
+            await socketRef.current.send(JSON.stringify({
+	            select_champ : kor_name_
+            }));
 
             champ_name.map((a)=>{
               let allChamp = document.querySelector('#'+a.eng_name);
@@ -364,6 +368,10 @@ function SelectBanPick(props) {
             setBan(ban_);
             set_flag(true);
             setSelectChamp(eng_name_);
+            
+            await socketRef.current.send(JSON.stringify({
+	            select_champ : kor_name_
+            }));
             
             champ_name.map((a)=>{ 
               let allChamp = document.querySelector('#'+a.eng_name); 
